@@ -37,5 +37,12 @@ namespace piskvorkz.Klient
             
         }
 
+        public static void SendContent(string input)
+        {
+
+        }
     }
+
+
+   
 }
