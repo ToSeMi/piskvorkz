@@ -63,7 +63,7 @@
             this.textBox1.MaximumSize = new System.Drawing.Size(60, 60);
             this.textBox1.MinimumSize = new System.Drawing.Size(60, 60);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(60, 60);
+            this.textBox1.Size = new System.Drawing.Size(60, 23);
             this.textBox1.TabIndex = 1;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
@@ -73,8 +73,9 @@
             this.textBox2.MaximumSize = new System.Drawing.Size(60, 60);
             this.textBox2.MinimumSize = new System.Drawing.Size(60, 60);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(60, 60);
+            this.textBox2.Size = new System.Drawing.Size(60, 23);
             this.textBox2.TabIndex = 2;
+            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // textBox3
             // 
@@ -82,8 +83,9 @@
             this.textBox3.MaximumSize = new System.Drawing.Size(60, 60);
             this.textBox3.MinimumSize = new System.Drawing.Size(60, 60);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(60, 60);
+            this.textBox3.Size = new System.Drawing.Size(60, 23);
             this.textBox3.TabIndex = 3;
+            this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // textBox4
             // 
@@ -91,8 +93,9 @@
             this.textBox4.MaximumSize = new System.Drawing.Size(60, 60);
             this.textBox4.MinimumSize = new System.Drawing.Size(60, 60);
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(60, 60);
+            this.textBox4.Size = new System.Drawing.Size(60, 23);
             this.textBox4.TabIndex = 4;
+            this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
             // 
             // textBox5
             // 
@@ -100,8 +103,9 @@
             this.textBox5.MaximumSize = new System.Drawing.Size(60, 60);
             this.textBox5.MinimumSize = new System.Drawing.Size(60, 60);
             this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(60, 60);
+            this.textBox5.Size = new System.Drawing.Size(60, 23);
             this.textBox5.TabIndex = 8;
+            this.textBox5.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
             // 
             // textBox6
             // 
@@ -109,8 +113,9 @@
             this.textBox6.MaximumSize = new System.Drawing.Size(60, 60);
             this.textBox6.MinimumSize = new System.Drawing.Size(60, 60);
             this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(60, 60);
+            this.textBox6.Size = new System.Drawing.Size(60, 23);
             this.textBox6.TabIndex = 7;
+            this.textBox6.TextChanged += new System.EventHandler(this.textBox6_TextChanged);
             // 
             // textBox7
             // 
@@ -118,8 +123,9 @@
             this.textBox7.MaximumSize = new System.Drawing.Size(60, 60);
             this.textBox7.MinimumSize = new System.Drawing.Size(60, 60);
             this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(60, 60);
+            this.textBox7.Size = new System.Drawing.Size(60, 23);
             this.textBox7.TabIndex = 6;
+            this.textBox7.TextChanged += new System.EventHandler(this.textBox7_TextChanged);
             // 
             // textBox8
             // 
@@ -127,8 +133,9 @@
             this.textBox8.MaximumSize = new System.Drawing.Size(60, 60);
             this.textBox8.MinimumSize = new System.Drawing.Size(60, 60);
             this.textBox8.Name = "textBox8";
-            this.textBox8.Size = new System.Drawing.Size(60, 60);
+            this.textBox8.Size = new System.Drawing.Size(60, 23);
             this.textBox8.TabIndex = 5;
+            this.textBox8.TextChanged += new System.EventHandler(this.textBox8_TextChanged);
             // 
             // textBox9
             // 
@@ -136,8 +143,9 @@
             this.textBox9.MaximumSize = new System.Drawing.Size(60, 60);
             this.textBox9.MinimumSize = new System.Drawing.Size(60, 60);
             this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(60, 60);
+            this.textBox9.Size = new System.Drawing.Size(60, 23);
             this.textBox9.TabIndex = 12;
+            this.textBox9.TextChanged += new System.EventHandler(this.textBox9_TextChanged);
             // 
             // textBox10
             // 
@@ -145,8 +153,9 @@
             this.textBox10.MaximumSize = new System.Drawing.Size(60, 60);
             this.textBox10.MinimumSize = new System.Drawing.Size(60, 60);
             this.textBox10.Name = "textBox10";
-            this.textBox10.Size = new System.Drawing.Size(60, 60);
+            this.textBox10.Size = new System.Drawing.Size(60, 23);
             this.textBox10.TabIndex = 11;
+            this.textBox10.TextChanged += new System.EventHandler(this.textBox10_TextChanged);
             // 
             // textBox11
             // 
@@ -154,8 +163,9 @@
             this.textBox11.MaximumSize = new System.Drawing.Size(60, 60);
             this.textBox11.MinimumSize = new System.Drawing.Size(60, 60);
             this.textBox11.Name = "textBox11";
-            this.textBox11.Size = new System.Drawing.Size(60, 60);
+            this.textBox11.Size = new System.Drawing.Size(60, 23);
             this.textBox11.TabIndex = 10;
+            this.textBox11.TextChanged += new System.EventHandler(this.textBox11_TextChanged);
             // 
             // textBox12
             // 
@@ -163,7 +173,7 @@
             this.textBox12.MaximumSize = new System.Drawing.Size(60, 60);
             this.textBox12.MinimumSize = new System.Drawing.Size(60, 60);
             this.textBox12.Name = "textBox12";
-            this.textBox12.Size = new System.Drawing.Size(60, 60);
+            this.textBox12.Size = new System.Drawing.Size(60, 23);
             this.textBox12.TabIndex = 9;
             this.textBox12.TextChanged += new System.EventHandler(this.textBox12_TextChanged);
             // 
@@ -173,7 +183,7 @@
             this.textBox13.MaximumSize = new System.Drawing.Size(60, 60);
             this.textBox13.MinimumSize = new System.Drawing.Size(60, 60);
             this.textBox13.Name = "textBox13";
-            this.textBox13.Size = new System.Drawing.Size(60, 60);
+            this.textBox13.Size = new System.Drawing.Size(60, 23);
             this.textBox13.TabIndex = 16;
             // 
             // textBox14
@@ -182,8 +192,9 @@
             this.textBox14.MaximumSize = new System.Drawing.Size(60, 60);
             this.textBox14.MinimumSize = new System.Drawing.Size(60, 60);
             this.textBox14.Name = "textBox14";
-            this.textBox14.Size = new System.Drawing.Size(60, 60);
+            this.textBox14.Size = new System.Drawing.Size(60, 23);
             this.textBox14.TabIndex = 15;
+            this.textBox14.TextChanged += new System.EventHandler(this.textBox14_TextChanged);
             // 
             // textBox15
             // 
@@ -191,8 +202,9 @@
             this.textBox15.MaximumSize = new System.Drawing.Size(60, 60);
             this.textBox15.MinimumSize = new System.Drawing.Size(60, 60);
             this.textBox15.Name = "textBox15";
-            this.textBox15.Size = new System.Drawing.Size(60, 60);
+            this.textBox15.Size = new System.Drawing.Size(60, 23);
             this.textBox15.TabIndex = 14;
+            this.textBox15.TextChanged += new System.EventHandler(this.textBox15_TextChanged);
             // 
             // textBox16
             // 
@@ -200,8 +212,9 @@
             this.textBox16.MaximumSize = new System.Drawing.Size(60, 60);
             this.textBox16.MinimumSize = new System.Drawing.Size(60, 60);
             this.textBox16.Name = "textBox16";
-            this.textBox16.Size = new System.Drawing.Size(60, 60);
+            this.textBox16.Size = new System.Drawing.Size(60, 23);
             this.textBox16.TabIndex = 13;
+            this.textBox16.TextChanged += new System.EventHandler(this.textBox16_TextChanged);
             // 
             // Form1
             // 
@@ -227,6 +240,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

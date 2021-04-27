@@ -6,5 +6,6 @@ namespace piskvorkz
 {
     class Game
     {
+        public static bool turn;
     }
 }
