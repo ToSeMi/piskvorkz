@@ -17,5 +17,14 @@ namespace piskvorkz
             InitializeComponent();
         }
 
+        private void textBox12_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
